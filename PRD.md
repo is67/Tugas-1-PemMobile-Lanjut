@@ -1,9 +1,11 @@
 # Product Requirements Document (PRD): Aplikasi Pemesanan Lapangan Olahraga
 **Versi:** 1.0  
 **Tanggal:** 17 September 2025  
-**Author:** Ahmad Rois & Gilang kafi
-**Status:** Draft  
+**Author:**
+- Ahmad Rois (221240001239)
+- M. Gilang M.W. Sabdokafi (221240001248)
 
+**Status:** Draft  
 ---
 
 ## 1. Latar Belakang & Visi Produk
